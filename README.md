@@ -23,6 +23,7 @@ This project is frontend-only and includes drag-and-drop reordering, inline edit
 
 ## 📁 Project Structure
 
+```
 react-todo-app/
 ├── public/
 │ └── index.html
@@ -42,6 +43,7 @@ react-todo-app/
 ├── package.json
 ├── package-lock.json
 └── .gitignore
+```
 
 ## 🚀 Getting Started
 
