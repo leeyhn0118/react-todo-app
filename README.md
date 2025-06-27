@@ -28,13 +28,20 @@ react-todo-app/
 │ └── index.html
 ├── src/
 │ ├── App.js
+│ ├── App.css
+│ ├── index.js
+│ ├── index.css
 │ ├── components/
 │ │ ├── Form.js
 │ │ ├── List.js
 │ │ └── Lists.js
-│ └── App.css
+│ ├── App.test.js
+│ ├── reportWebVitals.js
+│ └── setupTests.js
+├── tailwind.config.js
 ├── package.json
-└── tailwind.config.js
+├── package-lock.json
+└── .gitignore
 
 ## 🚀 Getting Started
 
